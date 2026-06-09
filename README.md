@@ -451,32 +451,6 @@ This guide is useful for readers who want to understand:
 
 ---
 
-## Editorial Notes
-
-This README should remain educational, balanced, and realistic. Avoid exaggerated promises, medical claims, or language that suggests guaranteed results.
-
-Good wording examples:
-
-* “may support”
-* “commonly associated with”
-* “traditionally used for”
-* “supports normal function”
-* “results may vary”
-* “not a prescription medication”
-* “not intended to diagnose, treat, cure, or prevent disease”
-
-Avoid wording such as:
-
-* “cures ED”
-* “guaranteed testosterone boost”
-* “works instantly”
-* “replaces Viagra”
-* “clinically proven to fix performance problems”
-* “permanent solution”
-* “no side effects for everyone”
-
----
-
 ## Disclaimer
 
 This content is for educational purposes only and is not medical advice. Hero Up is a dietary supplement, not a prescription medication. It is not intended to diagnose, treat, cure, or prevent any disease. Individual results vary. Always read the product label and consult a qualified healthcare professional before using any supplement, especially if you have a medical condition or take prescription medication.
